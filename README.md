@@ -6,6 +6,6 @@ termux-setup-storage
 pip install requests
 cd
 rm -rf voting
-git clone https://github.com/SHOOTER-MAKER/voting
+git clone https://github.com/imamuddinarad/voting
 cd voting
 python voting.py
